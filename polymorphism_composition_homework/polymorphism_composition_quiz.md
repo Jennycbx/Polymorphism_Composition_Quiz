@@ -3,7 +3,7 @@
 # Polymorphism
 
 1. What does the ___word___ 'polymorphism' mean?
-Polymorphism means classes related to each other using inheritance.
+Many forms.
 
 2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
 We can change a method depending on the type of object that is using it. E.g:
@@ -37,7 +37,7 @@ Composition is 'part of' whereas aggregation 'has a'. E.g. a door is part of a h
 You can reuse code, if you use composition you can achieve multiple inheritances.
 
 10. When using composition, when an object is destroyed, what happens to all the objects it is composed of?
-They are still available.
+They are destroyed.
 
 11. When using aggregation, when an object is destroyed, what happens to all the objects it is composed of?
-They are destroyed as wel.
+They are still available
